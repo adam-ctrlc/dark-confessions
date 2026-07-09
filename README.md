@@ -2,6 +2,8 @@
 
 An anonymous confession platform where anyone can submit and browse confessions without creating an account. Built with SvelteKit, Svelte 5, Tailwind CSS v4, and SQLite.
 
+![Dark Confessions screenshot](static/screenshot.png)
+
 ## Features
 
 - Submit confessions anonymously with an optional title
